@@ -1,8 +1,8 @@
 # Setup
 title:               Logan Bartholomew
 tagline:             'A personal website.'
-description:         'This is a repository inclusive of projects, teaching materials, work and research descriptions, contact and resumé information, and more. Welcome!'
-url:                 https://loganbartholomew.github.io/
+description:         'A repository for Logan Bartholomew, which includes a resume, selected publications and presentations, project synopses, teaching resources, and contact info.'
+url:                 https://gloganbart.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
