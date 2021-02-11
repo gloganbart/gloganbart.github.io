@@ -1,7 +1,7 @@
 # Setup
 title:               Logan Bartholomew
-tagline:             'TODO(logan)'
-description:         'TODO(logan)'
+tagline:             'A personal website.'
+description:         'This is a repository inclusive of projects, teaching materials, work and research descriptions, contact and resumé information, and more. Welcome!'
 url:                 https://loganbartholomew.github.io/
 baseurl:             ''
 paginate:            5
@@ -9,8 +9,8 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              George Logan Bay Area Rapid Transit
-  email:             markdotto@gmail.com
+  name:              George Logan Bartholomew
+  email:             logan_bartholomew@berkeley.edu
 
 # Gems
 plugins:
