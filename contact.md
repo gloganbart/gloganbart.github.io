@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conta
+title: Contact
 ---
 
 # Logan's Contact Information
