@@ -2,7 +2,7 @@
 title:               Logan Bartholomew
 tagline:             'A personal website.'
 description:         'A repository for Logan Bartholomew, which includes a resume, selected publications and presentations, project synopses, teaching resources, and contact info.'
-url:                 https://gloganbart.github.io/
+url:                 https://loganbartholomew.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
