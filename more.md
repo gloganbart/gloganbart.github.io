@@ -1,6 +1,6 @@
 ---
 layout: page
-title: more
+title: More
 ---
 
-hello world
+*This page remains under development.*
