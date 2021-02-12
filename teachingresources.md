@@ -38,17 +38,13 @@ During the Fall 2020 semester, I served as the Graduate Student Instructor for O
 
 ### Useful Literature and Data
 - [Evans' pKa Table]({{ site.url }}/pdfs/semlit/evans_pKa_table.pdf)
-
-
-
 - [Proton and Carbon NMR Solvent Residuals]({{ site.url }}/pdfs/semlit/NMRShiftsSolvents.pdf)
 - [Common Proton NMR Peaks]({{ site.url }}/pdfs/semlit/NMR_CommonRShifts.pdf)
 - [Common Carbon NMR Peaks]({{ site.url }}/pdfs/semlit/13CNMR.pdf)
 
 ### Practice Problems
 - [Common Reaction Mechanisms]({{ site.url }}/pdfs/semlit/Sn1Sn2E1E2Practice.pdf)
-- 
--
--
+- [Resonance and Hybridization]({{ site.url }}/pdfs/practice/WORKSHEET_B.pdf)
+- [NMR]({{ site.url }}/pdfs/practice/WORKSHEET_A.pdf)
 
 ---
