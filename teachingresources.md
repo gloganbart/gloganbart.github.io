@@ -25,16 +25,16 @@ During the Fall 2020 semester, I served as the Graduate Student Instructor for O
 10. [**Alpha-Pinene Oxide** and Intermediate Rearrangements]({{ site.url }}/pdfs/teachingmats/AlphaPineneOxide.pdf)
 
 ### Lab Lecture Recordings
-1. [**Thin Layer Chromatography**]({{ site.url }}/_movs/lectures/NAME.mov)
-2. [**Acid-Base Extraction**]({{ site.url }}/_movs/lectures/NAME.mov)
-3. [**Column Chromatography**]({{ site.url }}/_movs/lectures/NAME.mov)
-4. [**Recrystallization**]({{ site.url }}/_movs/lectures/NAME.mov)
-5. [**Hydride Reductions**]({{ site.url }}/_movs/lectures/NAME.mov)
-6. [**Alkyl Halide Substitutions**]({{ site.url }}/_movs/lectures/NAME.mov)
-7. [**Proton NMR**]({{ site.url }}/_movs/lectures/NAME.mov)
-8. [**Methyl Diantylsis Synthesis and Carbon NMR**]({{ site.url }}/_movs/lectures/NAME.mov)
-9. [**Alkene Hydration and Distillation**]({{ site.url }}/_movs/lectures/NAME.mov)
-10. [**Alpha-Pinene Oxide Rearrangements**]({{ site.url }}/_movs/lectures/NAME.mov)
+1. [**Thin Layer Chromatography**](https://berkeley.box.com/s/ilqwhxnh827xdep6olmyuu72q13v9k6e)
+2. [**Acid-Base Extraction**](https://berkeley.box.com/s/ilqwhxnh827xdep6olmyuu72q13v9k6e)
+3. [**Column Chromatography**](https://berkeley.box.com/s/ilqwhxnh827xdep6olmyuu72q13v9k6e)
+4. [**Recrystallization**](https://berkeley.box.com/s/ilqwhxnh827xdep6olmyuu72q13v9k6e)
+5. [**Hydride Reductions**](https://berkeley.box.com/s/ilqwhxnh827xdep6olmyuu72q13v9k6e)
+6. [**Alkyl Halide Substitutions**](https://berkeley.box.com/s/ilqwhxnh827xdep6olmyuu72q13v9k6e)
+7. [**Proton NMR**](https://berkeley.box.com/s/ilqwhxnh827xdep6olmyuu72q13v9k6e)
+8. [**Methyl Diantylsis Synthesis and Carbon NMR**](https://berkeley.box.com/s/ilqwhxnh827xdep6olmyuu72q13v9k6e)
+9. [**Alkene Hydration and Distillation**](https://berkeley.box.com/s/ilqwhxnh827xdep6olmyuu72q13v9k6e)
+10. [**Alpha-Pinene Oxide Rearrangements**](https://berkeley.box.com/s/ilqwhxnh827xdep6olmyuu72q13v9k6e)
 
 ### Useful Literature and Data
 - [Evans' pKa Table]({{ site.url }}/pdfs/semlit/evans_pKa_table.pdf)
