@@ -3,7 +3,7 @@ layout: page
 title: Tutoring
 ---
 
-I serve as a tutor and mentor for the following courses:
+**I serve as a tutor and mentor for the following courses:**
 
 General Chemistry I & II
 Organic Chemistry I & II
