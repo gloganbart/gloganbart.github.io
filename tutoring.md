@@ -20,7 +20,7 @@ Logan B. is by far the greatest GSI I've had so far at college. He excels in eve
 </details>
 
 <details>
-  <summary>Organic Chemistry Testimonial II</summary>
+  <summary>Organic Chemistry Testimonial III</summary>
   
 Logan is the best GSI I've ever had due to his preparation, ability to explain complex ideas, and most of all, patience with students. He genuinely explained things better than the professor and was willing to explain things over and over until students understood it. He was also very easy to talk to and made online lab more enjoyable than I ever thought it would be. He is the only reason I am going to pass this class.
 
