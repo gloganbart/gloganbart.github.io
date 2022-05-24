@@ -5,24 +5,40 @@ title: Teaching Resources
 
 Below, find handouts, recordings, worksheets, and other resources for courses I have taught.
 
----
-## Teaching Philosophy
-I recently put my name in the ring for our department's Outstanding GSI (Graduate Student Instructor) award. In doing so, I found the opportunity to reflect upon my teaching experiece in the Fall of 2020 and where this experience left me in terms of my overarching goals and ideals. This reflection may be found below.
-
-<details>
-  <summary>Click to View</summary>
-  
-  > This semester, I taught the organic chemistry for chemistry majors course, CHEM 12A. Without a shred of exaggeration, I found myself stunned on the first day. Prior to our first meeting, I had yet to encounter students with such inquisitive enthusiasm and driven agency solely to learn in a course. Principally, my students' scrutinizing commitment to not only understanding the fundamental concepts dictating organic chemical phenomena but, more importantly, developing the critical intuition held by all brilliant scientists genuinely blew me away. I knew at the outset, then, the onus laid upon me to effectively, cogently, and tangibly impart these concepts and skills beyond the face value of the text, homework, and exams. For this, I called upon my own experiences in the online classroom and as a teaching assistant to reconcile the common frustrations I faced with the important but challenging concepts tasked to the instructor to commute. My goal, above all else, was to tailor the course to the myriad of learning styles, academic backgrounds, and accessibility options commonplace in the contemporary classroom, making myself and my resources as abundantly available to my students as possible. 
-  To this end, I set up a personal website, which now serves many purposes, but began as a repository for the handouts, guides, notes, and problem sets I prepared as supplement to the course material. Therein, my students were able to utilize handouts tailored for the contemporary chemist with insights and factoids relevant to the current state of the field but frequently overlooked in undergraduate organic chemistry courses. My office hours, as such, frequently involved discussions beyond problem sets and practice problems, with time always dedicated (when feasible) to exploring more nuanced, practical, or higher-level ideas students found useful for their learning. 
-  These weekly handouts and practice problems were integral to my teaching style, facilitating peer-to-peer discussions between the students, thorough coverage of the course material, important notes to the practicing organic chemist, connections to higher-level topics throughout, and general synopses for crucial points. Moreover, these resources, combined with regular office hours and additional tutorials for the whole class on ChemDraw, MestreNova, Common Nomenclature, Electron Pushing, and Acid-Base Chemistry/pKas, facilitated a thorough coverage of important basics and fundamental topics underpinning each module alike.
-  It is now my pleasure to find these resources and my teaching approach served their purposes well in the eyes of my students (at least, as indicated by their anonymous evaluations). It was my distinct privilege to work with this engaging, challenging, curious, and dedicated group; I felt the need to somehow give back to these students what they gave me in the opportunity to teach them, and came out learning as much from them about my teaching philosophy and career goals as they did about Orgo I from me. I'm incredibly excited to teach the second module to this course with what I've been fortunate to learn from the first!
-  
-</details>
 
 ---
+## Advanced Organic Chemistry Lab Techniques
+
+### Handouts
+[**Processing NMR Spectra** Using MestReNova]({{ site.url }}/pdfs/teachingmats/CHEM 115 NMR Processing Tutorial.pdf)
+[**MestReNova Settings** for Publication Quality Spectra]({{ site.url }}/pdfs/teachingmats/CHEM 115 NMR Settings.zip)
+[**List of Resources** for the Practicing Organic Chemist]({{ site.url }}/pdfs/teachingmats/CHEM115_S2022_Resources.pdf)
+
+### Literature and Records
+#### *Collections*
+[A Comprehensive List of TLC Stains (and how to make them)]({{ site.url }}/pdfs/teachingmats/Comprehensive_TLC_Stains.pdf)
+[Dave Evans' Exhaustive Table of pKa Values]({{ site.url }}/pdfs/teachingmats/Evans_pKa_table.pdf)
+[Nudelman's List of NMR Solvent Residual Peaks]({{ site.url }}/pdfs/teachingmats/Nudelman_CommonNMRImpuritiesandSolventPeaks.pdf)
+[Extended List of Industrially-Preferred Solvent NMR Peaks]({{ site.url }}/pdfs/teachingmats/NMR_Shifts_of_IndustryPopularSolvents.pdf)
+[List of Solvent Physical Properties]({{ site.url }}/pdfs/teachingmats/PhysicalPropertiesOfSolvents.pdf)
+[Jennifer Shomaker's List of Common Abbreviations in Organic Chemistry]({{ site.url }}/pdfs/teachingmats/Shomaker_CommonAbbreviationsInOrganicChemistry.pdf)
+
+#### *Accompaniments*
+[The Chemist's Companion]({{ site.url }}/pdfs/teachingmats/Pirrung_ChemistsCompanion.pdf)
+[Clark Still's Initial Report for Flash Column Chromatography]({{ site.url }}/pdfs/teachingmats/Still_FlashColumnChromatography)
+[Zakarian's Simple Guide to **15-Minute Chromatography**]({{ site.url }}/pdfs/teachingmats/FlashChromaCheatSheets.pdf)
+
+#### *Philosophies*
+[Baran's Take on Redox Economy in Synthesis]({{ site.url }}/pdfs/teachingmats/Baran_Redox_Economy_in_Organic_Synthesis.pdf)
+[Baran's Take on Complexity-Building in Synthesis]({{ site.url }}/pdfs/teachingmats/Baran_Economies_of_synthesis.pdf)
+[Baran's Take on the Ideal Synthesis]({{ site.url }}/pdfs/teachingmats/Baran_IdealSynthesis)
+
+[Hoffman's Perspective on Retrosynthesis]({{ site.url }}/pdfs/teachingmats/Hoffman_RetrosyntheticAnalysis.pdf)
+[Gianatassio and Baran's Perspective on Retrosynthesis]({{ site.url }}/pdfs/teachingmats/Gianatassio–Baran_Retrosynthetic_Analysis.pdf)
+[Corey's Seminal Perspective on Retrosynthesis]({{ site.url }}/pdfs/teachingmats/Corey_RetrosyntheticThinking_EssentialsAndExamples .pdf)
+
 
 ## Organic Chemistry I
-During the Fall 2020 semester, I served as the Graduate Student Instructor for Organic Chemistry I for Chemistry majors.
 
 ### Handouts
 1. [**Thin Layer Chromatography** for Reaction Analysis]({{ site.url }}/pdfs/teachingmats/TLC.pdf)
