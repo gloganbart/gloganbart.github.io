@@ -9,8 +9,15 @@ Below, find brief synopses of my current and past research projects and any asso
 
 ## University of California, Berkeley
 ### August 2020 to present (Graduate Research)
+#### Pyrimidine Ring Contraction
+
+![image]({{ site.url }}/pngs/pyrimidine_contraction_graphic.png)
 
 I developed a practical method for pyrimidine ring contraction to pyrazoles through formal carbon deletion, achieving high yield and broad tolerance. This methodology may be used to leverage the favorable directing capabilities and selective functionalizability of the pyrimidine heterocycle for the synthesis, handling, and functionalization of late-stage, pyrazole-containing molecules. Additionally, substituted hydrazines may be used to forge N-functionalized pyrazoles in a regioselective fashion. *This work was published in [JACS in 2022](https://pubs.acs.org/doi/10.1021/jacs.2c10746). A free PDF download is available [here]({{ site.url }}/pdfs/bartholomew-et-al-2022-skeletal-editing-of-pyrimidines-to-pyrazoles-by-formal-carbon-deletion.pdf).*
+
+#### Azine Isotopic Labeling
+
+![image]({{ site.url }}/pngs/isotopic_exchange_graphic.png)
 
 In collabroation with Merck and the Sigman group at the University of Utah, I also developed a mild, direct, one-pot, transaminative methodology for <sup>15</sup>N labeling of nitrogen heteroaromatics. I explored the reactivity of azinium and diazinium ylides towards dipolarophiles to prepare polycyclic cycloadducts. *This work was published in [JACS in 2024](https://pubs.acs.org/doi/10.1021/jacs.3c11515). A free PDF download is available [here]({{ site.url }}/pdfs/bartholomew-et-al-2024-14n-to-15n-isotopic-exchange-of-nitrogen-heteroaromatics-through-skeletal-editing.pdf).*
 
