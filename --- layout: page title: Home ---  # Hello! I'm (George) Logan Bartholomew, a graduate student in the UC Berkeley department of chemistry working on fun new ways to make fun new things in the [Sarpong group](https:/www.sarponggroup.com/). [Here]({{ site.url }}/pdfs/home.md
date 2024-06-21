@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-# Hello!
-I'm (George) Logan Bartholomew, a graduate student in the UC Berkeley department of chemistry working on fun new ways to make fun new things in the [Sarpong group](https://www.sarponggroup.com/). [Here]({{ site.url }}/pdfs/LoganBartholomewCV.pdf) is a link to my resumé should you be interested. 
+# Hello
+I'm (George) Logan Bartholomew, a graduate student in the UC Berkeley department of chemistry working on fun new ways to make fun new things in the [Sarpong group](https://www.sarponggroup.com/). [Here]({{ site.url }}/pdfs/LoganBartholomewCV.pdf) is a link to my CV.
 
 This is a repository inclusive of projects, teaching materials, work and research descriptions, contact and resumé information, and more. 
 

@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Research Background
+title: Research
 ---
 
-Below, find brief synopses of my current and past research projects (as well as selected publications and presentations when available).
+Below, find brief synopses of my current and past research projects and any associated publications.
 
 ---
 
 ## University of California, Berkeley
 ### August 2020 to present (Graduate Research)
 
-I developed a practical method for pyrimidine ring contraction to pyrazoles through formal carbon deletion, achieving high yield and broad tolerance. This methodology may be used to leverage the favorable directing capabilities and selective functionalizability of the pyrimidine heterocycle for the synthesis, handling, and functionalization of late-stage, pyrazole-containing molecules. Additionally, substituted hydrazines may be used to forge N-functionalized pyrazoles in a regioselective fashion. This work was published in [JACS in 2022](https://pubs.acs.org/doi/10.1021/jacs.2c10746).
+I developed a practical method for pyrimidine ring contraction to pyrazoles through formal carbon deletion, achieving high yield and broad tolerance. This methodology may be used to leverage the favorable directing capabilities and selective functionalizability of the pyrimidine heterocycle for the synthesis, handling, and functionalization of late-stage, pyrazole-containing molecules. Additionally, substituted hydrazines may be used to forge N-functionalized pyrazoles in a regioselective fashion. *This work was published in [JACS in 2022](https://pubs.acs.org/doi/10.1021/jacs.2c10746). A free PDF download is available [here]({{ site.url }}/pdfs/bartholomew-et-al-2022-skeletal-editing-of-pyrimidines-to-pyrazoles-by-formal-carbon-deletion.pdf).*
 
-In collabroation with Merck and the Sigman group at the University of Utah, I also developed a mild, direct, one-pot, transaminative methodology for <sup>15</sup>N labeling of nitrogen heteroaromatics. I explored the reactivity of azinium and diazinium ylides towards dipolarophiles to prepare polycyclic cycloadducts. This work was published in [JACS in 2024](https://pubs.acs.org/doi/10.1021/jacs.3c11515).
+In collabroation with Merck and the Sigman group at the University of Utah, I also developed a mild, direct, one-pot, transaminative methodology for <sup>15</sup>N labeling of nitrogen heteroaromatics. I explored the reactivity of azinium and diazinium ylides towards dipolarophiles to prepare polycyclic cycloadducts. *This work was published in [JACS in 2024](https://pubs.acs.org/doi/10.1021/jacs.3c11515). A free PDF download is available [here]({{ site.url }}/pdfs/bartholomew-et-al-2024-14n-to-15n-isotopic-exchange-of-nitrogen-heteroaromatics-through-skeletal-editing.pdf).*
 
 Additionally, I engineered a library of organic halogenating reagents with electrophilic C–halide bonds for enantioselective halofunctionalization in non-coordinating compounds. Critically, all 4 generations of these reagents may be prepared in high yield without chromatography using nontoxic reagents and mild conditions. Currently, I am working toward the total synthesis of a pentacyclic diterpenoid natural product. 
 
