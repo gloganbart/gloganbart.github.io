@@ -14,29 +14,30 @@ Below, find handouts, recordings, worksheets, and other resources for courses I 
 - [**MestReNova Settings** for Publication Quality Spectra]({{ site.url }}/pdfs/teachingmats/CHEM 115 NMR Settings.zip)
 - [**List of Resources** for the Practicing Organic Chemist]({{ site.url }}/pdfs/teachingmats/CHEM115_S2022_Resources.pdf)
 
-### Literature and Records
-#### *Collections*
+### Literature
+#### *Data Collections*
 - [A Comprehensive List of TLC Stains (and how to make them)]({{ site.url }}/pdfs/teachingmats/Comprehensive_TLC_Stains.pdf)
 - [Dave Evans' Exhaustive Table of pKa Values]({{ site.url }}/pdfs/teachingmats/Evans_pKa_table.pdf)
 - [Nudelman's List of NMR Solvent Residual Peaks]({{ site.url }}/pdfs/teachingmats/Nudelman_CommonNMRImpuritiesandSolventPeaks.pdf)
 - [Extended List of Industrially-Preferred Solvent NMR Peaks]({{ site.url }}/pdfs/teachingmats/NMR_Shifts_of_IndustryPopularSolvents.pdf)
 - [List of Solvent Physical Properties]({{ site.url }}/pdfs/teachingmats/PhysicalPropertiesOfSolvents.pdf)
 - [Jennifer Shomaker's List of Common Abbreviations in Organic Chemistry]({{ site.url }}/pdfs/teachingmats/Shomaker_CommonAbbreviationsInOrganicChemistry.pdf)
-- [Paul Knochel's Method for Organometallci Titrations]({{ site.url }}/pdfs/papers/organometallic_titrations_knochel.pdf)
 
-#### *Accompaniments*
+#### *Useful Papers*
 - [The Chemist's Companion]({{ site.url }}/pdfs/teachingmats/Pirrung_ChemistsCompanion.pdf)
 - [Clark Still's Initial Report for Flash Column Chromatography]({{ site.url }}/pdfs/teachingmats/Still_FlashColumnChromatography)
 - [Zakarian's Simple Guide to **15-Minute Chromatography**]({{ site.url }}/pdfs/teachingmats/FlashChromaCheatSheets.pdf)
+- [Paul Knochel's Method for Organometallci Titrations]({{ site.url }}/pdfs/papers/organometallic_titrations_knochel.pdf)
+- [Bernhard Spingler on Crystal Growth for XRD]({{ site.url }}/pdfs/papers/spingler_crystallization.pdf)
 
-#### *Philosophies*
-- [Baran's Take on Redox Economy in Synthesis]({{ site.url }}/pdfs/teachingmats/Baran_Redox_Economy_in_Organic_Synthesis.pdf)
-- [Baran's Take on Complexity-Building in Synthesis]({{ site.url }}/pdfs/teachingmats/Baran_Economies_of_synthesis.pdf)
-- [Baran's Take on the Ideal Synthesis]({{ site.url }}/pdfs/teachingmats/Baran_IdealSynthesis)
+#### *Perspectives*
+- [Baran on Redox Economy in Synthesis]({{ site.url }}/pdfs/teachingmats/Baran_Redox_Economy_in_Organic_Synthesis.pdf)
+- [Baran on Complexity-Building in Synthesis]({{ site.url }}/pdfs/teachingmats/Baran_Economies_of_synthesis.pdf)
+- [Baran on the Ideal Synthesis]({{ site.url }}/pdfs/teachingmats/Baran_IdealSynthesis)
 
-- [Hoffman's Perspective on Retrosynthesis]({{ site.url }}/pdfs/teachingmats/Hoffman_RetrosyntheticAnalysis.pdf)
-- [Gianatassio and Baran's Perspective on Retrosynthesis]({{ site.url }}/pdfs/teachingmats/Gianatassio–Baran_Retrosynthetic_Analysis.pdf)
-- [Corey's Seminal Perspective on Retrosynthesis]({{ site.url }}/pdfs/teachingmats/Corey_RetrosyntheticThinking_EssentialsAndExamples .pdf)
+- [Hoffman on Retrosynthesis]({{ site.url }}/pdfs/teachingmats/Hoffman_RetrosyntheticAnalysis.pdf)
+- [Gianatassio and Baran on Retrosynthesis]({{ site.url }}/pdfs/teachingmats/Gianatassio–Baran_Retrosynthetic_Analysis.pdf)
+- [Corey on Retrosynthesis]({{ site.url }}/pdfs/teachingmats/Corey_RetrosyntheticThinking_EssentialsAndExamples .pdf)
 
 
 ## Organic Chemistry I
