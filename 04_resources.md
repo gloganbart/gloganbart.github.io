@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching Resources
+title: Resources
 ---
 
 Below, find handouts, recordings, worksheets, and other resources for courses I have taught.
@@ -22,6 +22,7 @@ Below, find handouts, recordings, worksheets, and other resources for courses I 
 - [Extended List of Industrially-Preferred Solvent NMR Peaks]({{ site.url }}/pdfs/teachingmats/NMR_Shifts_of_IndustryPopularSolvents.pdf)
 - [List of Solvent Physical Properties]({{ site.url }}/pdfs/teachingmats/PhysicalPropertiesOfSolvents.pdf)
 - [Jennifer Shomaker's List of Common Abbreviations in Organic Chemistry]({{ site.url }}/pdfs/teachingmats/Shomaker_CommonAbbreviationsInOrganicChemistry.pdf)
+- [Paul Knochel's Method for Organometallci Titrations]({{ site.url }}/pdfs/papers/organometallic_titrations_knochel.pdf)
 
 #### *Accompaniments*
 - [The Chemist's Companion]({{ site.url }}/pdfs/teachingmats/Pirrung_ChemistsCompanion.pdf)
