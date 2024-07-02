@@ -2,12 +2,12 @@
 layout: page
 title: Contact
 ---
-### You may contact me via any of the means listed below. I'm generally quite responsive to email!
+### I may be reached through the channels below.
 ---
 ## Email
 
-* logan_bartholomew@berkeley.edu (*professional or academic inquiries*)
-* gloganbart@gmail.com (*personal inquiries*)
+* logan_bartholomew@berkeley.edu
+* gloganbart@gmail.com
 
 ## Phone
 
@@ -15,7 +15,6 @@ title: Contact
 
 ## Social
 * [**LinkedIn**](https://www.linkedin.com/in/logan-bartholomew-343909158/)
-* [**Facebook**](https://www.facebook.com/gloganbart/)
 * [**Portfolio**](https://loganbartholomew.carbonmade.com/)
 
 ---

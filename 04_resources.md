@@ -34,7 +34,6 @@ Below, find handouts, recordings, worksheets, and other resources for courses I 
 - [Baran on Redox Economy in Synthesis]({{ site.url }}/pdfs/teachingmats/Baran_Redox_Economy_in_Organic_Synthesis.pdf)
 - [Baran on Complexity-Building in Synthesis]({{ site.url }}/pdfs/teachingmats/Baran_Economies_of_synthesis.pdf)
 - [Baran on the Ideal Synthesis]({{ site.url }}/pdfs/teachingmats/Baran_IdealSynthesis)
-
 - [Hoffman on Retrosynthesis]({{ site.url }}/pdfs/teachingmats/Hoffman_RetrosyntheticAnalysis.pdf)
 - [Gianatassio and Baran on Retrosynthesis]({{ site.url }}/pdfs/teachingmats/Gianatassio–Baran_Retrosynthetic_Analysis.pdf)
 - [Corey on Retrosynthesis]({{ site.url }}/pdfs/teachingmats/Corey_RetrosyntheticThinking_EssentialsAndExamples .pdf)
