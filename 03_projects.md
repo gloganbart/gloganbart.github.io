@@ -7,7 +7,7 @@ title: Projects
 
 A compilation of triplet energies for various commonly used photoredox catalysts and photosensitizers. This is also available as a [PDF]({{ site.url }}/pdfs/TripletEnergies_Calculated.pdf) and a [Spreadsheet]({{ site.url }}/pdfs/TripletEnergies_Calculated.xlsx).
 
-These energies were calculated using the B3LYP-D3 density functional and cc-PVTZ(-f) basis set (with LACV3P** used for metals) and solvation corrections applied using the polarizable continuum model (benzene).
+These energies were calculated using the B3LYP-D3 density functional and cc-PVTZ(-f) basis set (with LACV3P** used for metals) and solvation corrections applied using the polarizable continuum model (benzene). Energies are reported in kcal/mol.
 
 
 ### Tabulated Triplet Energies
