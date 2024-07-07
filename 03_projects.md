@@ -12,32 +12,34 @@ These energies were calculated using the B3LYP-D3 density functional and cc-PVTZ
 
 ### Tabulated Triplet Energies
 
+### Tabulated Triplet Energies
+
 | Species                                     | ET (calculated) | ET (measured) |
 |---------------------------------------------|-----------------|---------------|
-| [Ir(ppy)~2(dtbpy)]PF~6                      | 49.0            | 49.2^1        |
-| Ir(ppy)~3~                                  | 57.6            | 58.1^1^       |
-| Ir(CF3ppy)~3~                               | 56.6            | –             |
-| [Ir(dFppy)~2~(dtbpy)]PF~6~                  | 63.8            | –             |
-| Ir(dFppy)~3~                                | 63.0            | 63.5^1^       |
-| [Ir(dF(Me)ppy)2(dtbpy)]PF~6~                | 64.7            | –             |
-| [Ir(dF(CF~3~)ppy)2(dtbpy)]PF~6~             | 60.4            | 61.7^2^       |
-| [Ir(dF(CF~3~)ppy)2(5,5'-dCF~3~bpy)]PF~6~    | 58.9            | –             |
-| [Ir(dF(CF~3~)ppy)2(4,4'-dCF~3~bpy)]PF~6~    | 59.2            | –             |
-| [Ir(dF(Me)ppy)2(4,4'-dCF~3~bpy)]PF~6~       | 55.6            | –             |
-| benzophenone                                | 69.2            | 69.1^3^       |
-| thioxanthone                                | 63.1            | 63.3^3^       |
-| 3,3’-F-TX                                   | 67.2            | 69.1^4^       |
-| 3,3’-MeO-TX                                 | 68.0            | 71.2^4^       |
-| 2,2’-MeO-TX                                 | 52.8            | 55.2^4^       |
-| [Ru(bpy)~3~]Cl~2~                           | 54.2            | 49.0^3^       |
-| [Ru(bpzy)~3~]Cl~2~                          | 45.2            | –             |
-| [Ru(4,4’-dCF~3~-bpy)~3~]Cl~3~               | 53.8            | –             |
-    
+| [Ir(ppy)<sub>2</sub>(dtbpy)]PF<sub>6</sub>  | 49.0            | 49.2<sup>1</sup>       |
+| Ir(ppy)<sub>3</sub>                         | 57.6            | 58.1<sup>1</sup>       |
+| Ir(CF<sub>2</sub>ppy)<sub>3</sub>                      | 56.6            | –             |
+| [Ir(dFppy)<sub>2</sub>(dtbpy)]PF<sub>6</sub> | 63.8            | –             |
+| Ir(dFppy)<sub>3</sub>                       | 63.0            | 63.5<sup>1</sup>       |
+| [Ir(dF(Me)ppy)<sub>2</sub>(dtbpy)]PF<sub>6</sub> | 64.7      | –             |
+| [Ir(dF(CF<sub>3</sub>)ppy)<sub>2</sub>(dtbpy)]PF<sub>6</sub> | 60.4      | 61.7<sup>2</sup>       |
+| [Ir(dF(CF<sub>3</sub>)ppy)<sub>2</sub>(5,5'-dCF3bpy)]PF<sub>6</sub> | 58.9 | –             |
+| [Ir(dF(CF<sub>3</sub>)ppy)<sub>2</sub>(4,4'-dCF3bpy)]PF<sub>6</sub> | 59.2 | –             |
+| [Ir(dF(Me)ppy)<sub>2</sub>(4,4'-dCF3bpy)]PF<sub>6</sub> | 55.6   | –             |
+| benzophenone                                | 69.2            | 69.1<sup>3</sup>       |
+| thioxanthone                                | 63.1            | 63.3<sup>3</sup>       |
+| 3,3’-F-TX                                   | 67.2            | 69.1<sup>4</sup>       |
+| 3,3’-MeO-TX                                 | 68.0            | 71.2<sup>4</sup>       |
+| 2,2’-MeO-TX                                 | 52.8            | 55.2<sup>4</sup>       |
+| [Ru(bpy)<sub>3</sub>]Cl<sub>2</sub>         | 54.2            | 49.0<sup>3</sup>       |
+| [Ru(bpzy)<sub>3</sub>]Cl<sub>2</sub>        | 45.2            | –             |
+| [Ru(4,4’-dCF<sub>3</sub>bpy)<sub>3</sub>]Cl<sub>3</sub>| 53.8            | –             |
+
 #### References
-^1^ Glorius et. al, *Chem. Soc. Rev.* **2018**, *47*, 7190–7202
+<sup>1</sup> Glorius et. al, *Chem. Soc. Rev.* **2018**, *47*, 7190–7202
 
-^2^ Wenger et. al, *J. Am. Chem. Soc.* **2022**, *144*, 963–976
+<sup>2</sup> Wenger et. al, *J. Am. Chem. Soc.* **2022**, *144*, 963–976
 
-^3^ Glorius et. al, *Chem* **2020**, *6*, 1888–1903
+<sup>3</sup> Glorius et. al, *Chem* **2020**, *6*, 1888–1903
 
-^4^ Booker-Milburn et. al, *J. Am. Chem. Soc.* **2020**, *142*, 14947−14956
+<sup>4</sup> Booker-Milburn et. al, *J. Am. Chem. Soc.* **2020**, *142*, 14947−14956
