@@ -14,7 +14,7 @@ These energies were calculated using the B3LYP-D3 density functional and cc-PVTZ
 
 | Species                                     | ET (calculated) | ET (measured) |
 |---------------------------------------------|-----------------|---------------|
-| [Ir(ppy)~2~(dtbpy)]PF~6~                    | 49.0            | 49.2^1^       |
+| [Ir(ppy)~2(dtbpy)]PF~6                      | 49.0            | 49.2^1        |
 | Ir(ppy)~3~                                  | 57.6            | 58.1^1^       |
 | Ir(CF3ppy)~3~                               | 56.6            | –             |
 | [Ir(dFppy)~2~(dtbpy)]PF~6~                  | 63.8            | –             |
