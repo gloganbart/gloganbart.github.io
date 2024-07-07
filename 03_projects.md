@@ -9,8 +9,8 @@ A compilation of triplet energies for various commonly used photoredox catalysts
 
 These energies were calculated using the B3LYP-D3 density functional and cc-PVTZ(-f) basis set (with LACV3P** used for metals) and solvation corrections applied using the polarizable continuum model (benzene).
 
-<details>
-  <summary>Tabulated Triplet Energies</summary>
+
+### Tabulated Triplet Energies
 
 | Species                                     | ET (calculated) | ET (measured) |
 |---------------------------------------------|-----------------|---------------|
@@ -41,5 +41,3 @@ These energies were calculated using the B3LYP-D3 density functional and cc-PVTZ
 ^3^ Glorius et. al, *Chem* **2020**, *6*, 1888–1903
 
 ^4^ Booker-Milburn et. al, *J. Am. Chem. Soc.* **2020**, *142*, 14947−14956
-
-</details>
