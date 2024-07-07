@@ -12,8 +12,6 @@ These energies were calculated using the B3LYP-D3 density functional and cc-PVTZ
 
 ### Tabulated Triplet Energies
 
-### Tabulated Triplet Energies
-
 | Species                                     | ET (calculated) | ET (measured) |
 |---------------------------------------------|-----------------|---------------|
 | [Ir(ppy)<sub>2</sub>(dtbpy)]PF<sub>6</sub>  | 49.0            | 49.2<sup>1</sup>       |
