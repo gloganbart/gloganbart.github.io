@@ -7,7 +7,7 @@ Below, find handouts, recordings, worksheets, and other resources for courses I 
 
 
 ---
-## Advanced Organic Chemistry Lab Techniques
+## Advanced Organic Chemistry & Lab Techniques
 
 ### Handouts
 - [**Processing NMR Spectra** Using MestReNova]({{ site.url }}/pdfs/teachingmats/CHEM 115 NMR Processing Tutorial.pdf)
